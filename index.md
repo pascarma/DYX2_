@@ -7,3 +7,5 @@
 [Route_stager](https://route-stager-na.corp.amazon.com/index.html?#/node/DYX2)<br/>
 [Labor_tracking](http://fcmenu-iad-regionalized.corp.amazon.com/DYX2/laborTrackingKiosk)<br/>
 [FCLM](https://fclm-portal.amazon.com/?warehouseId=DYX2)<br/>
+[Chime](https://app.chime.aws/)<br/>
+[avery_software_and_tutorals](https://drive.corp.amazon.com/folders/AMZL%20OpsTech/Avery%20Software)
