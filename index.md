@@ -1,4 +1,4 @@
-<div class="bg-gray">
+
   [apollo](https://apollo-audit.corp.amazon.com/)<br/>
   [eagle-eye](https://eagleeye-na.amazon.com/search)<br/>
   [amazonlogistics](https://www.amazonlogistics.com/?)<br/>
@@ -10,5 +10,5 @@
   [FCLM](https://fclm-portal.amazon.com/?warehouseId=DYX2)<br/>
   [Chime](https://app.chime.aws/)<br/>
   [avery_software_and_tutorals](https://drive.corp.amazon.com/folders/AMZL%20OpsTech/Avery%20Software)
-</div>
+
 
