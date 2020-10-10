@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 [apollo](https://apollo-audit.corp.amazon.com/)<br/>
 [eagle-eye](https://eagleeye-na.amazon.com/search)<br/>
 [amazonlogistics](https://www.amazonlogistics.com/?)<br/>
