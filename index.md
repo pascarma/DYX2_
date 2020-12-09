@@ -2,8 +2,9 @@
 [apollo](https://apollo-audit.corp.amazon.com/) <br/>
 [eagle-eye](https://eagleeye-na.amazon.com/search)<br/>
 [amazonlogistics](https://www.amazonlogistics.com/?)<br/>
-[SCC_old](https://logistics.amazon.com/station/dashboard/MainBoard)<br/>
-[SSC_new](https://logistics.amazon.com/station/dashboard/overview)<br/>
+[campus_ship](https://www.campusship.ups.com/login?reasonCode=-1)<br/>
+[SCC_DWELlS](https://logistics.amazon.com/station/inductperformance/view?isdwellingTab=true)<br/>
+[SSC](https://logistics.amazon.com/station/dashboard/overview)<br/>
 [Name_tag_generator](https://mastermind.amazon.com/tag_generator/?fc=DYX2)<br/>
 [Route_stager](https://route-stager-na.corp.amazon.com/index.html?#/node/DYX2)<br/>
 [trans-logistics](https://trans-logistics.amazon.com)<br/>
