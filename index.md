@@ -4,7 +4,8 @@
 [amazonlogistics](https://www.amazonlogistics.com/?)<br/>
 [campus_ship](https://www.campusship.ups.com/login?reasonCode=-1)<br/>
 [SCC_DWELlS](https://logistics.amazon.com/station/inductperformance/view?isdwellingTab=true)<br/>
-[SSC](https://logistics.amazon.com/station/dashboard/overview)<br/>
+[SCC](https://logistics.amazon.com/station/dashboard/overview)<br/>
+[COMP](https://compwebsite-na.amazon.com/comp/packageSearch)<br/>
 [Name_tag_generator](https://mastermind.amazon.com/tag_generator/?fc=DYX2)<br/>
 [Route_stager](https://route-stager-na.corp.amazon.com/index.html?#/node/DYX2)<br/>
 [trans-logistics](https://trans-logistics.amazon.com)<br/>
